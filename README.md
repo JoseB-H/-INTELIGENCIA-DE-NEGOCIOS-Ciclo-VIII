@@ -88,7 +88,7 @@ Los KPIs desarrollados se alinean con las cuatro perspectivas del BSC (Financier
 └── README.md
 ```
 
-## 👥 Integrantes
+## Integrantes
 
 - Jose Alberto Farid Bojorquez Huarcaya
 - Eduardo Sebastian Lucas Rios
@@ -100,6 +100,6 @@ Los KPIs desarrollados se alinean con las cuatro perspectivas del BSC (Financier
 **Curso:** Inteligencia de Negocios — Sección 25136
 **Universidad Tecnológica del Perú** — Facultad de Ingeniería
 
-## 📄 Licencia
+## Licencia
 
 Proyecto académico desarrollado con fines educativos para la UTP.
