@@ -1,0 +1,192 @@
+{
+    "name": "PlazaVea_Blanco_Pro",
+    "dataColors": [
+        "#E21C2B",
+        "#FFC000",
+        "#F38C00",
+        "#D61120",
+        "#FF9900",
+        "#B8101A",
+        "#FFD700",
+        "#8B0000"
+    ],
+    "background": "#F0F4F8",
+    "foreground": "#333333",
+    "tableAccent": "#E21C2B",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "responsive": true,
+                        "wordWrap": true
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#B0B0B0"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "visualHeader": [
+                    {
+                        "show": true
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#E5E7EB"
+                            }
+                        },
+                        "radius": 8
+                    }
+                ],
+                "dropShadow": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "transparency": 10,
+                        "blur": 4,
+                        "distance": 2
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#E21C2B"
+                            }
+                        },
+                        "fontSize": 24,
+                        "fontFamily": "Segoe UI Bold"
+                    }
+                ],
+                "categoryAxis": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#666666"
+                            }
+                        },
+                        "fontSize": 11,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#F3F4F6"
+                            }
+                        }
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#FFC000"
+                            }
+                        },
+                        "radius": 4
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "header": [
+                    {
+                        "fontColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI Semibold"
+                    }
+                ],
+                "items": [
+                    {
+                        "fontColor": {
+                            "solid": {
+                                "color": "#333333"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "padding": 4
+                    }
+                ],
+                "background": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#E21C2B"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "outspace": [
+                    {
+                        "solid": {
+                            "color": "#F0F4F8"
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "image": {
+                            "name": "bg_red_sidebar",
+                            "scaling": "Fit",
+                            "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTQwIDg2NiIgd2lkdGg9IjE1NDAiIGhlaWdodD0iODY2Ij4KICA8cmVjdCB3aWR0aD0iMjUwIiBoZWlnaHQ9Ijg2NiIgZmlsbD0iI0UyMUMyQiIvPgo8L3N2Zz4="
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        },
+        "multiRowCard": {
+            "*": {
+                "background": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        }
+    }
+}
